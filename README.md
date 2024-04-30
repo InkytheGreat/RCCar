@@ -1,8 +1,11 @@
 # RCCar
 RC Car with Auto Stop
+
 Caleb Incarnato
+
 RC Car with Auto-Stop using Wi-Fi and Bluetooth
-	This project aims to create an RC car with an auto-stop feature. A Raspberry Pi is used to control all parts of the car, with one python program running to interface with all connected devices. Wi-Fi and Bluetooth technologies are utilized to remotely control the car. The car communicates wirelessly with a remote PC, streaming live camera footage via VNC while using a Bluetooth keyboard for remote control. An ultrasonic distance sensor is used to automatically stop the car when it gets too close to an obstacle, and an accelerometer is used to detect crashes. Four DC motors are connected to two motor controllers and separate batteries which provide adequate movement control.
+
+This project aims to create an RC car with an auto-stop feature. A Raspberry Pi is used to control all parts of the car, with one python program running to interface with all connected devices. Wi-Fi and Bluetooth technologies are utilized to remotely control the car. The car communicates wirelessly with a remote PC, streaming live camera footage via VNC while using a Bluetooth keyboard for remote control. An ultrasonic distance sensor is used to automatically stop the car when it gets too close to an obstacle, and an accelerometer is used to detect crashes. Four DC motors are connected to two motor controllers and separate batteries which provide adequate movement control.
 
 	•Physical Components Used
 	  o Raspberry Pi 5
